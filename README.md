@@ -1,7 +1,5 @@
 ANGGOTA KELOMPOK :  1. REZA RAHARDIAN BAHAR (5181011002)
-
                     2. THOLABUL AMIN (5181011018)
-                    
                     3. MUHAMMAD NIZAL AWALUDIN R (5181011050)
 
 PRODI            :  TEKNIK KOMPUTER - A
