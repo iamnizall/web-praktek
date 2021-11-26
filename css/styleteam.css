@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,100&family=Poppins:wght@300&family=Source+Code+Pro:wght@300&display=swap');
+
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+p {
+    text-align: center;
+    font-family: Barlow Condensed;
+    font-size: 25px;
+}
